@@ -1,3 +1,3 @@
 #!/bin/bash
 #
-echo "Hell000o" >>/tmp/a.txt
+echo "Hell000 workld" >>/tmp/a.txt
