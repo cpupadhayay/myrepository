@@ -1,3 +1,3 @@
 #!/bin/bash
 #
-echo "Hello mydata" >>/tmp/a.txt
+echo "Hello nkjaggkskjskja" >>/tmp/a.txt
