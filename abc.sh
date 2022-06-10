@@ -1,3 +1,3 @@
 #!/bin/bash
 #
-echo "Hell000 world  newww88888" >>/tmp/a.txt
+echo "Hello mycheck world " >>/tmp/a.txt
