@@ -1,3 +1,3 @@
 #!/bin/bash
 #
-echo "Hello world " >>/tmp/a.txt
+echo "Hello world yesss" >>/tmp/a.txt
