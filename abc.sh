@@ -1,3 +1,3 @@
 #!/bin/bash
 #
-echo "Hello nkjaggkskjskja" >>/tmp/a.txt
+echo "Helloooo" >>/tmp/a.txt
